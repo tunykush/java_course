@@ -1,0 +1,2 @@
+Math.ceil là làm tròn lên 
+Math.floor là làm tròn xuống
