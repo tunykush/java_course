@@ -12,9 +12,9 @@ public class product {
 
     public product ( String id, String name, double price, String description){
         this.id = id;
-        this name = name;
-        this price = price;
-        this description = description;
+        this.name = name;
+        this.price = price;
+        this.description = description;
     }
     //getter & setter
     public String getId() {
@@ -24,9 +24,7 @@ public class product {
     public void setId ( String id) {
         this.id = id;
     }
-+
 
-+********+
     public String getName() {
         return name;
     }
